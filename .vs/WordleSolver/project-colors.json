@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b25ef3c-40cb-410b-a772-bf73f7d4681a": {
+      "ProjectGuid": "2b25ef3c-40cb-410b-a772-bf73f7d4681a",
+      "DisplayName": "WordleSolver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
